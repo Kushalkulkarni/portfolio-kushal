@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-kushal/static/css/main.86504aaa.chunk.css",
+    "main.js": "/portfolio-kushal/static/js/main.34de08a8.chunk.js",
+    "main.js.map": "/portfolio-kushal/static/js/main.34de08a8.chunk.js.map",
+    "runtime-main.js": "/portfolio-kushal/static/js/runtime-main.2ce6e55b.js",
+    "runtime-main.js.map": "/portfolio-kushal/static/js/runtime-main.2ce6e55b.js.map",
+    "static/js/2.39252be1.chunk.js": "/portfolio-kushal/static/js/2.39252be1.chunk.js",
+    "static/js/2.39252be1.chunk.js.map": "/portfolio-kushal/static/js/2.39252be1.chunk.js.map",
+    "static/js/3.ae220bbb.chunk.js": "/portfolio-kushal/static/js/3.ae220bbb.chunk.js",
+    "static/js/3.ae220bbb.chunk.js.map": "/portfolio-kushal/static/js/3.ae220bbb.chunk.js.map",
+    "index.html": "/portfolio-kushal/index.html",
+    "static/css/main.86504aaa.chunk.css.map": "/portfolio-kushal/static/css/main.86504aaa.chunk.css.map",
+    "static/js/2.39252be1.chunk.js.LICENSE.txt": "/portfolio-kushal/static/js/2.39252be1.chunk.js.LICENSE.txt",
+    "static/media/SelectedBlogs.b3335ae9.svg": "/portfolio-kushal/static/media/SelectedBlogs.b3335ae9.svg",
+    "static/media/SelectedProjects.a4541dd0.svg": "/portfolio-kushal/static/media/SelectedProjects.a4541dd0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce6e55b.js",
+    "static/js/2.39252be1.chunk.js",
+    "static/css/main.86504aaa.chunk.css",
+    "static/js/main.34de08a8.chunk.js"
+  ]
+}
