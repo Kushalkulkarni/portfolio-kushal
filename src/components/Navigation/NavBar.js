@@ -66,7 +66,7 @@ export default function NavBar(props) {
     <div className={classes.root}>
       <BrowserRouter>
       <ScrollToTop />
-        <Route path="/">
+        <Route path="/home">
           <AppBar position="fixed" className={classes.appBar}>
             <Toolbar>
               <IconButton
@@ -165,7 +165,7 @@ export default function NavBar(props) {
           <Toolbar />
         </Route>
         <Switch>
-          <Route path="/" exact>
+          <Route path="/home" exact>
             <Home />
           </Route>
           <Route path="/projects" exact>
