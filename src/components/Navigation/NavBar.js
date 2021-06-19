@@ -75,7 +75,7 @@ export default function NavBar(props) {
                 color="inherit"
                 aria-label="menu"
                 component={Link}
-                to={"/"}
+                to={"/home"}
               >
                 <Typography
                   color="secondary"
